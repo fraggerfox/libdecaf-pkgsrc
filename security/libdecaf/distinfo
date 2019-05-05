@@ -1,4 +1,4 @@
-$NetBSD: distinfo,v 1.2 2015/11/04 01:17:41 agc Exp $
+$NetBSD$
 
 SHA1 (libdecaf-1.0.0.tgz) = c36a3b392763d6ddae4304a7e4c48353d8f1f474
 RMD160 (libdecaf-1.0.0.tgz) = 1ff710c56f2e0682547ed78dc427893b40604c06
