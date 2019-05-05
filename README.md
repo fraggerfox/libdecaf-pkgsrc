@@ -25,7 +25,7 @@ Once you have copied the folder, install it as you would do for any package.
 `$ cd /usr/pkgsrc/security/libdecaf`<br>
 `$ make install clean`
 
-For a list of dependencies for the build check [here][2]
+For a list of dependencies for the build check [here][3]
 
 Credits
 -------
