@@ -11,8 +11,8 @@ COMMENT=	Implementation of elliptic curve cryptography
 LICENSE=	mit
 
 USE_CMAKE=	yes
-CMAKE_ARGS=	-DENABLE_TESTS=NO
-USE_LANGUAGES+=	c99 c++11
+CMAKE_ARGS+=	-DENABLE_TESTS=NO
+USE_LANGUAGES=	c99 c++11
 
 PYTHON_FOR_BUILD_ONLY=		tool
 
