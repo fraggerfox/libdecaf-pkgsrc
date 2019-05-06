@@ -31,6 +31,7 @@ Credits
 -------
 
 * The libdecaf is developed and maintained by the [Mike Hamburg][4]
+* Thanks to `leot@` for reviewing the package in detail.
 
 License
 -------
