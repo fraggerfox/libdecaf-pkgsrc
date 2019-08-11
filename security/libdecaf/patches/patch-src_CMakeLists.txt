@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-src_CMakeLists.txt,v 1.1 2019/08/11 16:47:52 fox Exp $
 
 Do not create a include/decaf/decaf.
 
