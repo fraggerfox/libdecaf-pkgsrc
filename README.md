@@ -1,13 +1,11 @@
 libdecaf-pkgsrc
 ===============
 
-NetBSD pkgsrc script for libdecaf.
+NetBSD [pkgsrc][5] script for libdecaf.
 
 Libdecaf is a library that implements [Ed448-Goldilocks][1]
 
 You can find libdecaf [here][2]
-
-NOTE: This package is not yet available in the NetBSD pkgsrc tree.
 
 Installation
 ------------
@@ -42,4 +40,4 @@ BSD 2-clause. See LICENSE.
 [2]: https://sourceforge.net/projects/ed448goldilocks/
 [3]: https://sourceforge.net/p/ed448goldilocks/code/ci/master/tree/
 [4]: https://www.shiftleft.org/about/
-
+[5]: http://pkgsrc.se/security/libdecaf
